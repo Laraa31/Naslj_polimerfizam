@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\bin\Debug\naslj_polimerfizam.exe.config
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\bin\Debug\naslj_polimerfizam.exe
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\bin\Debug\naslj_polimerfizam.pdb
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\obj\Debug\naslj_polimerfizam.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\obj\Debug\naslj_polimerfizam.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\obj\Debug\naslj_polimerfizam.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\obj\Debug\naslj_polimerfizam.exe
+C:\Users\LaPeM\source\repos\naslj_polimerfizam\naslj_polimerfizam\obj\Debug\naslj_polimerfizam.pdb
